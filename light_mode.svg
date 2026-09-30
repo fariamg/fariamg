@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc" width="1040" height="530" viewBox="0 0 1040 530">
+  <title id="title">Gabriel Faria terminal profile</title>
+  <desc id="desc">ASCII portrait and terminal-style profile describing Gabriel Faria, a cryptography engineer and researcher.</desc>
+  <style>
+    text { font-family: Consolas, "Liberation Mono", Menlo, monospace; font-size: 15px; white-space: pre; }
+    .base { fill: #1f2328; }
+    .key { fill: #cf222e; }
+    .value { fill: #0969da; }
+    .cc { fill: #afb8c1; }
+    .green { fill: #1a7f37; }
+    .ascii { fill: #1f2328; }
+  </style>
+  <rect width="1040" height="530" rx="14" fill="#f6f8fa" />
+  <text class="ascii">
+<tspan x="18" y="30">                    :;::.</tspan>
+<tspan x="18" y="50">                 .;ssrsXi</tspan>
+<tspan x="18" y="70">                 ::,,  ,:</tspan>
+<tspan x="18" y="90">                .XS@BM2s,</tspan>
+<tspan x="18" y="110">              :#@@@@@@@@@#X.</tspan>
+<tspan x="18" y="130">              #@@@@@@@@@@@@r</tspan>
+<tspan x="18" y="150">             :@@@@@@@@@@@@X</tspan>
+<tspan x="18" y="170">             sGHGh55253GB9SX     :.</tspan>
+<tspan x="18" y="190">                .h   ,:  ;H@2   s2;</tspan>
+<tspan x="18" y="210">                h@Gi  .rG@@@2 .s sX</tspan>
+<tspan x="18" y="230">             ;sA@@@@B3h@@BM3: i3sHA</tspan>
+<tspan x="18" y="250">             .s#@@B39@95rr55r:;595</tspan>
+<tspan x="18" y="270">              :X. .H#SShsssssi.r</tspan>
+<tspan x="18" y="290">              .h;,h@9#SSAri;:,;</tspan>
+<tspan x="18" y="310">               :,;sXrr52r;,  ,2:</tspan>
+<tspan x="18" y="330">               .    :i.      s3As</tspan>
+<tspan x="18" y="350">                ir2H9M:    shG2:         .</tspan>
+<tspan x="18" y="370">                .,,,,   .5@BX.      ...,;is</tspan>
+<tspan x="18" y="390">        ..       s.   ;2#9s      ...      ,</tspan>
+<tspan x="18" y="410">     ..        .s:   #G5:  .........</tspan>
+<tspan x="18" y="430">    ..   ..    ,,  ;:;   ...... ...   .....</tspan>
+<tspan x="18" y="450">   ..   .    ,.    .  ..... .....  ......</tspan>
+<tspan x="18" y="470">  ..                ................</tspan>
+<tspan x="18" y="490">   ..             ................</tspan>
+<tspan x="18" y="510"> ...        .:.  ......  .....</tspan>
+  </text>
+<text x="415" y="30" class="base"><tspan class="base">─ fariamg@github ────────────────────────────────────────────</tspan></text>
+<text x="415" y="50" class="base"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc">................................................. </tspan><tspan class="value">Linux</tspan></text>
+<text x="415" y="70" class="base"><tspan class="cc">. </tspan><tspan class="key">Shell:</tspan><tspan class="cc">................................................ </tspan><tspan class="value">zsh</tspan></text>
+<text x="415" y="90" class="base"><tspan class="cc">. </tspan><tspan class="key">Host:</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Belo Horizonte, Brazil</tspan></text>
+<text x="415" y="110" class="base"><tspan class="cc">. </tspan><tspan class="key">Kernel:</tspan><tspan class="cc">................ </tspan><tspan class="value">Cryptography Engineer &amp; Researcher</tspan></text>
+<text x="415" y="130" class="base"><tspan class="cc">. </tspan><tspan class="key">Focus:</tspan><tspan class="cc">.................. </tspan><tspan class="value">Cryptography, Systems, Algorithms</tspan></text>
+<text x="415" y="150" class="base"><tspan class="cc">.</tspan></text>
+<text x="415" y="170" class="base"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming:</tspan><tspan class="cc">...... </tspan><tspan class="value">Rust, Python, C++, TypeScript</tspan></text>
+<text x="415" y="190" class="base"><tspan class="cc">. </tspan><tspan class="key">Languages.Proof:</tspan><tspan class="cc">.............................. </tspan><tspan class="value">Lean, LaTeX</tspan></text>
+<text x="415" y="210" class="base"><tspan class="cc">. </tspan><tspan class="key">Languages.Real:</tspan><tspan class="cc">....................... </tspan><tspan class="value">Portuguese, English</tspan></text>
+<text x="415" y="230" class="base"><tspan class="cc">.</tspan></text>
+<text x="415" y="250" class="base"><tspan class="base">─ Featured ──────────────────────────────────────────────────</tspan></text>
+<text x="415" y="270" class="base"><tspan class="cc">. </tspan><tspan class="key">Project.01:</tspan><tspan class="cc">................ </tspan><tspan class="value">Maximum Independent Set Solver</tspan></text>
+<text x="415" y="290" class="base"><tspan class="cc">. </tspan><tspan class="key">Project.02:</tspan><tspan class="cc">.......... </tspan><tspan class="value">Adaptive Sorting Algorithm Framework</tspan></text>
+<text x="415" y="310" class="base"><tspan class="cc">. </tspan><tspan class="key">Project.03:</tspan><tspan class="cc">................... </tspan><tspan class="value">Urban Infrastructure Solver</tspan></text>
+<text x="415" y="330" class="base"><tspan class="cc">.</tspan></text>
+<text x="415" y="350" class="base"><tspan class="base">─ Contact ───────────────────────────────────────────────────</tspan></text>
+<text x="415" y="370" class="base"><tspan class="cc">. </tspan><tspan class="key">Email:</tspan><tspan class="cc">................................. </tspan><tspan class="value">fariamg4@gmail.com</tspan></text>
+<text x="415" y="390" class="base"><tspan class="cc">. </tspan><tspan class="key">LinkedIn:</tspan><tspan class="cc">......................... </tspan><tspan class="value">gabriel-faria-73812723a</tspan></text>
+<text x="415" y="410" class="base"><tspan class="cc">. </tspan><tspan class="key">GitHub:</tspan><tspan class="cc">........................................... </tspan><tspan class="value">fariamg</tspan></text>
+<text x="415" y="430" class="base"><tspan class="cc">.</tspan></text>
+<text x="415" y="450" class="base"><tspan class="base">─ GitHub Stats ──────────────────────────────────────────────</tspan></text>
+<text x="415" y="470" class="base"><tspan class="cc">. </tspan><tspan class="key">Repos</tspan><tspan class="base">: </tspan><tspan class="value">21</tspan><tspan class="cc">  |  </tspan><tspan class="key">Stars</tspan><tspan class="base">: </tspan><tspan class="value">5</tspan></text>
+<text x="415" y="490" class="base"><tspan class="cc">. </tspan><tspan class="key">Followers</tspan><tspan class="base">: </tspan><tspan class="value">10</tspan><tspan class="cc">  |  </tspan><tspan class="key">Following</tspan><tspan class="base">: </tspan><tspan class="value">14</tspan></text>
+<text x="415" y="510" class="base"><tspan class="cc">. </tspan><tspan class="green">signal</tspan><tspan class="base">: make assumptions visible</tspan></text>
+</svg>
