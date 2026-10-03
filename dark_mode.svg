@@ -48,7 +48,7 @@
   </text>
 <text x="485" y="34" class="base"><tspan class="base">─ fariamg@github ───────────────────────────────────────────────────</tspan></text>
 <text x="485" y="58" class="base"><tspan class="cc">. </tspan><tspan class="key">OS:</tspan><tspan class="cc">........................................................ </tspan><tspan class="value">Linux</tspan></text>
-<text x="485" y="82" class="base"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc" id="uptime_data_dots">............................. </tspan><tspan class="value" id="uptime_data">21 years, 11 months, 29 days</tspan></text>
+<text x="485" y="82" class="base"><tspan class="cc">. </tspan><tspan class="key">Uptime:</tspan><tspan class="cc" id="uptime_data_dots">............................... </tspan><tspan class="value" id="uptime_data">22 years, 0 months, 0 days</tspan></text>
 <text x="485" y="106" class="base"><tspan class="cc">. </tspan><tspan class="key">Shell:</tspan><tspan class="cc">....................................................... </tspan><tspan class="value">zsh</tspan></text>
 <text x="485" y="130" class="base"><tspan class="cc">. </tspan><tspan class="key">Host:</tspan><tspan class="cc">..................................... </tspan><tspan class="value">Belo Horizonte, Brazil</tspan></text>
 <text x="485" y="154" class="base"><tspan class="cc">. </tspan><tspan class="key">Kernel:</tspan><tspan class="cc">....................... </tspan><tspan class="value">Cryptography Engineer &amp; Researcher</tspan></text>
